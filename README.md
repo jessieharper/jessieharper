@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessieharper
-- 👀 I’m interested in game devlopment, Rust, C++!
+- 👀 I’m interested in interactive designs and game development!
 - 🌱 I’m currently learning TypeScript.
-- 💞️ I’m looking to collaborate on anything fun!
+- 💞️ I’m looking to collaborate on anything creative!
 - 📫 How to reach me: jessieharper12@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I was a kid, I used to be able to fit my whole ear inside my earhole...
