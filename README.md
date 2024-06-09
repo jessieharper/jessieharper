@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessieharper
-- 👀 I’m interested in interactive designs and game development!
-- 🌱 I’m currently learning TypeScript, Framer Motion, Three.js.
+- 👀 I’m interested in interactive UX/UI designs and game development!
+- 🌱 I’m currently learning PHP, WordPress, Typescript.
 - 💞️ I’m looking to collaborate on anything creative!
 - 📫 How to reach me: jessieharper12@gmail.com
 - 😄 Pronouns: She/Her
