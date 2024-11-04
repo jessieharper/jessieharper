@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessieharper
 - 👀 I’m interested in full stack development, interactive UX/UI designs, 2D animation, and game development!
-- 🌱 I’m currently learning React Native, backtracking, php.
+- 🌱 I’m currently learning React Native and Laravel.
 - 🧠 On my To Learn list: C#, Unity, SASS.
 - 💞️ I’m looking to collaborate on anything creative!
 - 📫 How to reach me: jessieharper12@gmail.com
